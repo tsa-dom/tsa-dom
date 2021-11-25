@@ -2,7 +2,8 @@
 
 
 * 🌱 I'm currently studying Computer Science at the University of Helsinki.
-* 👀 My interests are related to Full Stack development, cyber security and algorithm design.
+* 👀 My interests are related to Full Stack development, Cyber Security and algorithm design.
+* ⚡ I'm willing to work as a DevOps engineer.
 
 <!--
 **tsa-dom/tsa-dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
