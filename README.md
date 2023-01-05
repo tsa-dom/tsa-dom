@@ -1,4 +1,4 @@
-### Hi! I'm Tapio,
+## Hi! I'm Tapio,
 
 an enthusiastic Computer Science student from the University of Helsinki, who is always looking for new challenges and opportunities. I am particularly interested in agile software development, problem solving and customer satisfaction.
 
